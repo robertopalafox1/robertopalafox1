@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Roberto Palafox
+- 🤖 I'm Electronic engineer 
 - 🤖 I'm Security Analyst
 - 👀 I’m interested in CyberSecurity red team 
 - 🌱 I’m currently learning Frontend and Backend
